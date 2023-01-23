@@ -1,11 +1,12 @@
 # odin-recipes
-Odin Recipe Website
-Hello, welcome to my first Odin project. 
-This will be a recipe webiste where I will be practicing: 
+### Odin Recipe Website
+Welcome to my first Odin project. 
+</p>This will be a recipe website where I will be practicing:</p>
+
 * HTML
 * Ordered Lists OL
 * Unordered Lists UL
 * Creating GitHub repositories
 * Cloning GitHub repositories
-* Creating project file systems 
+* Creating organized project file systems
 
