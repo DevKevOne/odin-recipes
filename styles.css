@@ -1,0 +1,57 @@
+#pages {
+background-color: rgb(184, 171, 70);
+color: white;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 36px;
+text-align: center;
+}
+
+a {
+color: white;
+font-weight: bold;
+}
+
+/* index.html ends */
+
+#turkey {
+background-color: rgb(184, 171, 70);
+color: white;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 22px;
+}
+
+img {
+    height: auto;
+    width: 800px;
+}
+
+/* page1 turkey-sandwich recipe ends */
+
+
+#eggs {
+background-color: rgb(184, 171, 70);
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 22px;
+}
+
+img {
+    height:auto;
+    width: 800px;
+}
+
+/* page2 scrambled-eggs recipe ends */
+
+#pizza {
+background-color: rgb(184, 171, 70);
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 22px;
+}
+
+img {
+    height: auto;
+    width: 800px;
+}
+
+/* page3 french-bread-pizza recipe ends*/
